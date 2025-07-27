@@ -85,5 +85,11 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    
+    "junlao": {
+      "api": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬接口"
+    }
+    
   }
 }
